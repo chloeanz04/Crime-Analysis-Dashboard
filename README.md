@@ -1,4 +1,4 @@
-[Power BI] Crime Analytics Dashboard
+# [Power BI] Crime Analytics Dashboard
 
 An interactive analytics dashboard built with **Power BI**, providing insights into crime patterns across time, geography, and categories.  
 This project includes 2 pages: an overview dashboard and a detailed drill-through analysis.
