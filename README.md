@@ -1,4 +1,4 @@
-# 📊 Crime Analytics Dashboard — Power BI Project
+[Power BI] Crime Analytics Dashboard
 
 An interactive analytics dashboard built with **Power BI**, providing insights into crime patterns across time, geography, and categories.  
 This project includes 2 pages: an overview dashboard and a detailed drill-through analysis.
@@ -15,9 +15,17 @@ This project includes 2 pages: an overview dashboard and a detailed drill-throug
 
 ---
 
-## 🚀 Features
+## Technologies Used
+- **Power BI Desktop**
+- **DAX Measures** for dynamic text, alerts, and KPIs
+- **Drill-through Filtering**
+- **Data Modeling** with Fact/Dimension structure
 
-### 🔹 Page 1 — Overview Dashboard
+---
+
+## Features
+
+### Page 1 — Overview Dashboard
 - **Total Crimes KPI**
 - **Crime by Years** (column chart)
 - **Crime by Time Range** (bar chart)
@@ -44,30 +52,12 @@ When a user clicks a time range from page 1:
 
 ---
 
-## 🛠️ Technologies Used
-- **Power BI Desktop**
-- **DAX Measures** for dynamic text, alerts, and KPIs
-- **Drill-through Filtering**
-- **Data Modeling** with Fact/Dimension structure
-
----
-
-## 🎯 Insights Provided
+## Insights Provided
 - Identify **high-risk time ranges**
 - Observe **monthly and yearly crime trends**
 - Understand **crime type distributions**
 - Analyze **geographical hotspots**
 - Support **police resource allocation & safety analytics**
-
----
-
-## 🔧 Potential Improvements
-- Add predictive forecasting models  
-- Publish to Power BI Service with refresh  
-- Implement Row-Level Security (RLS)  
-- Add anomaly detection visual  
-
----
 
 ## ✨ Author
 **Hân / Chloe Nguyen**  
