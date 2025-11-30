@@ -52,26 +52,12 @@ When a user clicks a time range from page 1:
 
 ---
 
-## 📁 Repository Structure
-┣ CrimeDashboard.pbix 
-┣ assets/ 
-┗ 📄 README.md
----
-
 ## 🎯 Insights Provided
 - Identify **high-risk time ranges**
 - Observe **monthly and yearly crime trends**
 - Understand **crime type distributions**
 - Analyze **geographical hotspots**
 - Support **police resource allocation & safety analytics**
-
----
-
-## ▶️ How to Use
-1. Clone the repository  
-2. Open `CrimeDashboard.pbix` in **Power BI Desktop**  
-3. Explore visuals, filters, and drill-through pages  
-4. Replace with your own dataset if needed  
 
 ---
 
