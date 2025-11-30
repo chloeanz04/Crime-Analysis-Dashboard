@@ -5,7 +5,7 @@ This project includes 2 pages: an overview dashboard and a detailed drill-throug
 
 ---
 
-## 🖼️ Dashboard Screenshots
+## Dashboard Screenshots
 
 ### **Overview Page**
 ![Overview](asset/report.png)
