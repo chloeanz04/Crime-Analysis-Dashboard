@@ -8,10 +8,10 @@ This project includes 2 pages: an overview dashboard and a detailed drill-throug
 ## 🖼️ Dashboard Screenshots
 
 ### **Overview Page**
-![Overview](assets/report.png)
+![Overview](asset/report.png)
 
 ### **Detail Drill-Through Page**
-![Details](assets/details.png)
+![Details](asset/details.png)
 
 ---
 
