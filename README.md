@@ -39,7 +39,7 @@ This project includes 2 pages: an overview dashboard and a detailed drill-throug
 
 ---
 
-### 🔹 Page 2 — Drill-Through Analysis
+### Page 2 — Drill-Through Analysis
 When a user clicks a time range from page 1:
 
 - **People Involved Distribution** (donut chart)
@@ -58,9 +58,3 @@ When a user clicks a time range from page 1:
 - Understand **crime type distributions**
 - Analyze **geographical hotspots**
 - Support **police resource allocation & safety analytics**
-
-## ✨ Author
-**Hân / Chloe Nguyen**  
-Data Analyst – Power BI | Python | SQL  
-
----
